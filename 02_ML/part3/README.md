@@ -2,7 +2,7 @@
 
 ### Part 2 KNN & Logistic Regression
 #### Chapter3 KNN
-1. 🔥KNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chenwei-lo/course_3.0/blob/ML/02_ML/part3/Chapter3/KNN.ipynb)
+1. 🔥KNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chenwei-lo/course_3.0/blob/main/02_ML/part3/Chapter3/KNN.ipynb)
 2. 🔥KNN_modify_K [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part3/Chapter3/KNN_modify_K.ipynb)
 3. 🔥KNN_regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part3/Chapter3/KNN_regression.ipynb)
 #### Chapter4 Logistic Regression
